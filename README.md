@@ -11,7 +11,7 @@
   <h2 align="center">Deploy do Site</h2>
   
   <p align="center">
-    O site está disponível em: <a href="https://juliamariaa.github.io/LandingPage/">https://juliamariaa.github.io/LandingPage/</a>
+    O site está disponível em: <a href="https://juliamariaa.github.io/LandingPage/" target="_blank">https://juliamariaa.github.io/LandingPage/</a>
   </p>
   <br>
   <h2 align="center">Design Inspiração</h2>
