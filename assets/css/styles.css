@@ -204,7 +204,7 @@ footer a{
 }
 
 
-@media screen and (max-width: 755px){
+@media screen and (max-width: 755px) {
 
     .container{
         padding: 0 0;
@@ -250,8 +250,7 @@ footer a{
         display: none;
     }
 
-    .nav-menuMobile,
-    .nav-menuMobileLink{
+    .nav-menuMobile{
         display: block;
     }
 
