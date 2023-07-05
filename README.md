@@ -4,7 +4,7 @@
 Landing Page totalmente responsiva, desenvolvida com: HTML, CSS e JS.
 
 ## Foto de inspiração do Design UI
-(assets/img/designInspiração.jpg)
+![Texto alternativo](assets/img/designInspiração.jpg)
 
 ## Descrição do Projeto
 Landing Page totalmente responsiva, desenvolvida com: HTML, CSS e JS.
