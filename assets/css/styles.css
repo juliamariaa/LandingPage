@@ -22,7 +22,7 @@
 /* nav bar */
 .nav-bar{
     display: flex;
-    justify-content:space-around;
+    justify-content:space-between;
     padding: 1.5rem;
 }
 
@@ -179,11 +179,6 @@ footer a{
 
 @media screen and (max-width: 930px){
 
-    .nav-bar{
-        display: flex;
-        justify-content: space-between;
-    }
-
     .main-img img, 
     .section-img img, 
     .section-imgTwo img {
@@ -283,7 +278,21 @@ footer a{
     .nav-menuMobileLink .menu-item{
         display: block;
         padding-top: 1.2rem;
-    }    
+    }
+
+@media screen and (max-width: 355px){
+
+    .main-content h1, 
+    .section-content h2{
+        font-size: 1.8em;
+    }
+
+    .main-content p, 
+    .section-content p{
+        font-size: 0.85em;
+        text-align: center;
+    }
+}  
 }
 
 
